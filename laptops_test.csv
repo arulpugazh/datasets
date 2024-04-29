@@ -1,4 +1,3 @@
-Table 1
 index,brand,Model,Price,Rating,processor_brand,processor_tier,num_cores,num_threads,ram_memory,primary_storage_type,primary_storage_capacity,secondary_storage_type,secondary_storage_capacity,gpu_brand,gpu_type,is_touch_screen,display_size,resolution_width,resolution_height,OS,year_of_warranty
 901,msi,MSI GF63 Thin 11UC-1295IN Gaming Laptop (11th Gen Core i5/ 16GB/ 1TB 256GB SSD/ Win11 Home/ 4GB Graph),72990,71,intel,core i5,6,12,16,HDD,1024,SSD,256,nvidia,dedicated,FALSE,15.6,1920,1080,windows,No information
 902,acer,Acer Nitro 5 AN515-47 2023 Gaming Laptop (AMD Ryzen 5 7535HS/ 16GB/ 512GB SSD/ Win11/ 4GB Graph),68990,73,amd,ryzen 5,6,12,16,SSD,512,No secondary storage,0,nvidia,dedicated,FALSE,15.6,1920,1080,windows,1
